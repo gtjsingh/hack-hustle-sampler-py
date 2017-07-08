@@ -1,0 +1,30 @@
+{
+    "soundKits" : {
+        "rolandTR808" : {
+            "mode" : "SAMPLE",
+            "rootPath" : "samples/rolandTR808/",
+            "keySamples" : {
+                "z" : "BD0010.WAV",
+                "x" : "SD7575.WAV",
+                "c" : "CP.WAV",
+                "v" : "RS.WAV",
+                "b" : "CL.WAV",
+                "a" : "CH.WAV",
+                "s" : "CY1000.WAV",
+                "d" : "MA.WAV",
+                "f" : "OH10.WAV",
+                "g" : "CB.WAV",
+                "n" : "LT00.WAV",
+                "m" : "MT00.WAV",
+                "," : "HT00.WAV",
+                "j" : "LC00.WAV",
+                "k" : "MC00.WAV",
+                "l" : "HC00.WAV",
+                " " : [
+                    "BD0010.WAV",
+                    "SD7575.WAV"
+                ]
+            }
+        }
+    }
+}
