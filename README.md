@@ -17,7 +17,7 @@ sudo python3.6 -m pip install pygame --user
 
 Specific sound kit information found in config.json.  
 Roland TR-808 sound kit by Michael Fischer included.  
-By default, some 808 sounds used from samples/rolandTR808,but more samples included in samples/originalRolandTR808 for customization options.  
+By default, some 808 sounds used from samples/rolandTR808, but more samples included in samples/originalRolandTR808 for customization options.  
 Add new sound kit as dictionary in json under "soundKits".  
 Add subfolder to samples folder in directory with sounds to include.  
 Then add new root path and key input mappings to config.json.  
