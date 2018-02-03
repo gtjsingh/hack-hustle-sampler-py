@@ -41,14 +41,14 @@ Each sample will not overlap audio with itself when triggered more than once.
 
 This code is meant to be relatively simple and used for educational purposes. Students brand new to programming will work to build a similar sampler of their own in increments.
 
-The Hack & Hustle Social Entrepreneurship Academy is a workforce development program created through an equal partnership between Jecha Networks, Informative Technologies, and Hip Hop University. Hack & Hustle will increase economic mobility for underserved youth by placing scholars in technology training while providing them with face-to-face mentorship. These scholars will be coding with in-demand programming languages such as Python, bringing further value to computers once viewed as eWaste while learning skills beneficial to them in the modern economy.
+The Hack & Hustle Social Entrepreneurship Academy is a workforce development program that will increase economic mobility for underserved youth by placing scholars in technology training while providing them with face-to-face mentorship. These scholars will be coding with in-demand programming languages such as Python, bringing further value to computers once viewed as eWaste while learning skills beneficial to them in the modern economy.
 
 #### CONTACT
 
 Gurtej Singh  
-Technology Director of Hip Hop University  
-gurtejsingh(dot)com  
-tech4hiphopuniversity(at)gmail(dot)com  
-hackhustleacademy(at)gmail(dot)com  
+https://www.gurtejsingh.com/#contact
+
+Hack & Hustle Social Entrepreneurship Academy
+http://www.hackhustleacademy.org/contactus.html
 
 
