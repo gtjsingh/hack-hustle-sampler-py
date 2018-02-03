@@ -48,7 +48,7 @@ The Hack & Hustle Social Entrepreneurship Academy is a workforce development pro
 Gurtej Singh  
 https://www.gurtejsingh.com/#contact
 
-Hack & Hustle Social Entrepreneurship Academy
+Hack & Hustle Social Entrepreneurship Academy  
 http://www.hackhustleacademy.org/contactus.html
 
 
